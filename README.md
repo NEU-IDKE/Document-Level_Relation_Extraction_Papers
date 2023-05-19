@@ -5,12 +5,12 @@ Collection of Information Extraction Papers
 
 ### Evaluation of Document-Level Relation Extraction
 
-<h4>单元格跨行跨列:</h4>   <!--标题-->
+<h4>DOCRED数据集测评结果:</h4>
 <table border="1" width="500px" cellspacing="10">
 <tr>
-  <th align="left">表头(左对齐)</th>
-  <th align="center">表头(居中)</th>
-  <th align="right">表头(右对齐)</th>
+  <th align="left">Model</th>
+  <th align="center">Dev</th>
+  <th align="center">Test</th>
 </tr>
 <tr>
   <td>行1，列1</td>
