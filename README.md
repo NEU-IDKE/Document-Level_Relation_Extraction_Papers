@@ -3,6 +3,8 @@ Collection of Information Extraction Papers
 
 ## Document-Level Relation Extraction
 
+### Papers
+
 ### Evaluation of Document-Level Relation Extraction
 
 <h4>DOCRED数据集测评结果:</h4>
@@ -33,6 +35,8 @@ Collection of Information Extraction Papers
 </table>
 
 ## Sentence-Level Relation Extraction
+
+### Papers
 
 ### Evaluation of Sentence-Level Relation Extraction
 
