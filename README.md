@@ -3,7 +3,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 
 ### Papers
 1. **ATLOP**: **"Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling".**
-*Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang* (AAAI 2021) \[[paper]([https://arxiv.org/pdf/1905.04914.pdf])\]\[[code]([https://github.com/nju-websoft/RSN])\]
+*Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang* (AAAI 2021)  \[[paper](https://www.aclweb.org/anthology/D18-1032)\]\[[code](https://github.com/1049451037/GCN-Align)\]
 
 ### Performance Evaluation
 
