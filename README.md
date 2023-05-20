@@ -1,7 +1,5 @@
-# Information_Extraction_Papers
-Collection of Information Extraction Papers
-
-## Document-Level Relation Extraction
+# Document-Level_Relation_Extraction_Papers
+Collection of Document-Level Relation Extraction Papers
 
 ### Papers
 
@@ -33,10 +31,3 @@ Collection of Information Extraction Papers
   <td>行4，列3</td>
 </tr>
 </table>
-
-## Sentence-Level Relation Extraction
-
-### Papers
-
-### Evaluation of Sentence-Level Relation Extraction
-
