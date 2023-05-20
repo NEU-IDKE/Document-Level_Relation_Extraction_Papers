@@ -96,3 +96,92 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
   <td>行4，列3</td>
 </tr>
 </table>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr>
+  <td width=142 valign=top style='width:106.5pt;border:solid windowtext 1.0pt;
+  border-top:solid windowtext 1.5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.5pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=142 valign=top style='width:106.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=142 valign=top style='width:106.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=142 valign=top style='width:106.5pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+  <td width=142 valign=top style='width:106.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+  </td>
+ </tr>
+</table>
