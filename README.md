@@ -2,11 +2,8 @@
 This is a repo listing some papers on Document-Level Relation Extraction published in recent years.
 
 ### Papers
-1. **RSN4EA**: **"Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs".**
-*Lingbing Guo, Zequn Sun, Wei Hu.* (ICML 2019) \[[paper](https://arxiv.org/pdf/1905.04914.pdf)\]\[[code](https://github.com/nju-websoft/RSN)\]
-
-1. **MuGNN**: **"Multi-Channel Graph Neural Network for Entity Alignment".**
-*Yixin Cao, Zhiyuan Liu, Chengjiang Li, Zhiyuan Liu, Juanzi Li, Tat-Seng Chua.* (ACL 2019) \[[paper](https://www.aclweb.org/anthology/P19-1140)\]\[[code](https://github.com/thunlp/MuGNN)\]
+1. **ATLOP**: **"Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling".**
+*Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang* (AAAI 2021) \[[paper]([https://arxiv.org/pdf/1905.04914.pdf](https://arxiv.org/pdf/2010.11304))\]\[[code]([https://github.com/nju-websoft/RSN](https://github.com/wzhouad/ATLOP))\]
 
 ### Performance Evaluation
 
