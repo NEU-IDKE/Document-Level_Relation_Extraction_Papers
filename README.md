@@ -51,8 +51,8 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <td width=95 valign=top style='width:71.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b><span
-  lang=EN-US>lgn</span></b></span><b><span lang=EN-US> F1</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US>lgn F1</span></b></p>
   </td>
   <td width=100 valign=top style='width:75.15pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
@@ -61,8 +61,8 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
   <td width=95 valign=top style='width:71.2pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b><span
-  lang=EN-US>lgn</span></b></span><b><span lang=EN-US> F1</span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US>lgn F1</span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
@@ -70,7 +70,8 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:9.0pt'>BERT-ATLOP<sub>BASE</sub></span></p>
+  style='font-size:9.0pt'>BERT-ATLOP<sub>BASE</sub></span><span
+  style='font-size:9.0pt'>（<span lang=EN-US>Zhou at al.2021</span>）</span></p>
   </td>
   <td width=102 valign=top style='width:76.6pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'></td>
@@ -102,9 +103,10 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <td width=219 valign=top style='width:164.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:9.0pt'>RoBERTa</span></span><span lang=EN-US
-  style='font-size:9.0pt'>-ATLOP<sub>LARGE</sub><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:9.0pt'>RoBERTa-ATLOP<sub>LARGE</sub></span><span
+  style='font-size:9.0pt'>（<span lang=EN-US>Zhou at al.2021</span>）<span
+  lang=EN-US><o:p></o:p></span></span></p>
   </td>
   <td width=102 valign=top style='width:76.6pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'></td>
@@ -132,39 +134,23 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   style='font-size:9.0pt'>61.39<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:3'>
+ <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
   <td width=219 valign=top style='width:164.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
-  lang=EN-US style='font-size:9.0pt'>RoBERTa</span></span><span lang=EN-US
-  style='font-size:9.0pt'>-ATLOP<sub>LARGE</sub><o:p></o:p></span></p>
-  </td>
+  padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=102 valign=top style='width:76.6pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=98 valign=top style='width:73.4pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=93 valign=top style='width:70.05pt;border:none;border-bottom:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:9.0pt'>63.18+-0.19<o:p></o:p></span></p>
-  </td>
+  padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=95 valign=top style='width:71.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:9.0pt'>61.32+-0.14<o:p></o:p></span></p>
-  </td>
+  padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=100 valign=top style='width:75.15pt;border:none;border-bottom:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:9.0pt'>63.40<o:p></o:p></span></p>
-  </td>
+  padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=95 valign=top style='width:71.2pt;border:none;border-bottom:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:9.0pt'>61.39<o:p></o:p></span></p>
-  </td>
+  padding:0cm 5.4pt 0cm 5.4pt'></td>
  </tr>
 </table>
 
