@@ -3,7 +3,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 
 ### Papers
 
-### Evaluation of Document-Level Relation Extraction
+### Performance Evaluation
 
 <h4>DOCRED数据集测评结果:</h4>
 <table border="1" width="500px" cellspacing="10">
