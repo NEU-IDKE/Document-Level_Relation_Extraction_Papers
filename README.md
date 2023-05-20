@@ -47,7 +47,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 
   <tr>
   <td width=400>
-  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>BERT-ATLOP<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zhou at al.2021</span>）</span></p>
+  <p ><span lang=EN-US style='font-size:9.0pt'>BERT-ATLOP<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zhou at al.2021</span>）</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US></span></p>
