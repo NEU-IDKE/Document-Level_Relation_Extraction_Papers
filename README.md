@@ -32,7 +32,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   lang=EN-US style='font-size:14.0pt'>Test</span></b></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:1'>
+ <tr style='mso-yfti-irow:1;table-layout:fixed'>
   <td width=102 valign=top style='width:76.6pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><b><span
