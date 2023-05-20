@@ -1,5 +1,5 @@
 # Document-Level_Relation_Extraction_Papers
-Collection of Document-Level Relation Extraction Papers
+This is a repo listing some papers on Document-Level Relation Extraction published in recent years.
 
 ### Papers
 
