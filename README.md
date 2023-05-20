@@ -5,6 +5,8 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 1. **ATLOP**: **"Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling".**
 *Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang* (AAAI 2021)  \[[paper](https://arxiv.org/pdf/2010.11304.pdf)\]\[[code](https://github.com/wzhouad/ATLOP)\]
 
+hahaha
+
 ### Performance Evaluation
 
 <h4>DocRED数据集测评结果:</h4>
