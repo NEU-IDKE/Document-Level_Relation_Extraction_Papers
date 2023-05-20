@@ -5,7 +5,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 
 ### Performance Evaluation
 
-<h4>DOCRED数据集测评结果:</h4>
+<h4>DocRED数据集测评结果:</h4>
 <table border="1" width="500px" cellspacing="10">
 <tr>
   <th align="left">Model</th>
@@ -32,7 +32,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 </tr>
 </table>
 
-<h4>DOCRED数据集测评结果:</h4>
+<h4>Re-DocRED数据集测评结果:</h4>
 <table border="1" width="500px" cellspacing="10">
 <tr>
   <th align="left">Model</th>
