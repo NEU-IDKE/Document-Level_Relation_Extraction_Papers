@@ -11,39 +11,6 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 ### Performance Evaluation
 
 <h4>DocRED数据集测评结果:</h4>
-\begin{table}[]
-\centering
-\begin{tabular}{lllll}
-\hline
-\multirow{2}{*}{\textbf{Model}} & \multicolumn{2}{l}{\textbf{Dev}} & \multicolumn{2}{l}{\textbf{Test}} \\ \cline{2-5} 
-                             & Ign F1 & F1           & Ign F1 & F1    \\ \hline
-
-\end{tabular}
-\end{table}
-
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
- 
-The Cauchy-Schwarz Inequality
- 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-\begin{table}[htp]
-    \centering
-    \caption{The caption of this table}
-    \begin{tabular}{ccccc}%
-        \toprule
-        i  & 列1 & 列2 & 列3 & 列4\\
-        \midrule
-        1  & 0                    & 0            & 320      & 90\\
-        2  & 90                   & 100          & 0        & 90\\
-        \bottomrule
-    \end{tabular}
-    \label{tab:DH}
-\end{table}
-
-
-<h4>DocRED数据集测评结果:</h4>
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
@@ -165,23 +132,39 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
   style='font-size:9.0pt'>61.39<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+ <tr style='mso-yfti-irow:3'>
   <td width=219 valign=top style='width:164.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'></td>
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  lang=EN-US style='font-size:9.0pt'>RoBERTa</span></span><span lang=EN-US
+  style='font-size:9.0pt'>-ATLOP<sub>LARGE</sub><o:p></o:p></span></p>
+  </td>
   <td width=102 valign=top style='width:76.6pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=98 valign=top style='width:73.4pt;border:none;border-bottom:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt'></td>
   <td width=93 valign=top style='width:70.05pt;border:none;border-bottom:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'></td>
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:9.0pt'>63.18+-0.19<o:p></o:p></span></p>
+  </td>
   <td width=95 valign=top style='width:71.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'></td>
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:9.0pt'>61.32+-0.14<o:p></o:p></span></p>
+  </td>
   <td width=100 valign=top style='width:75.15pt;border:none;border-bottom:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'></td>
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:9.0pt'>63.40<o:p></o:p></span></p>
+  </td>
   <td width=95 valign=top style='width:71.2pt;border:none;border-bottom:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'></td>
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  style='font-size:9.0pt'>61.39<o:p></o:p></span></p>
+  </td>
  </tr>
 </table>
 
