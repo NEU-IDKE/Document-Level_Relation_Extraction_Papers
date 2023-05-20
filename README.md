@@ -23,6 +23,21 @@ The Cauchy-Schwarz Inequality
  
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
+\begin{table}[htp]
+    \centering
+    \caption{The caption of this table}
+    \begin{tabular}{ccccc}%
+        \toprule
+        i  & 列1 & 列2 & 列3 & 列4\\
+        \midrule
+        1  & 0                    & 0            & 320      & 90\\
+        2  & 90                   & 100          & 0        & 90\\
+        \bottomrule
+    \end{tabular}
+    \label{tab:DH}
+\end{table}
+
+
 <h4>DocRED数据集测评结果:</h4>
 <table border="1" width="500px" cellspacing="10">
 <tr>
