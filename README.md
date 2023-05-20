@@ -5,11 +5,9 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 
 ### Performance Evaluation
 
-
+<h4>DocRED数据集测评结果:</h4>
 \begin{table}[]
 \centering
-\caption{Performance of different models on DocRED}
-\label{performance_comparison}
 \begin{tabular}{lllll}
 \hline
 \multirow{2}{*}{\textbf{Model}} & \multicolumn{2}{l}{\textbf{Dev}} & \multicolumn{2}{l}{\textbf{Test}} \\ \cline{2-5} 
