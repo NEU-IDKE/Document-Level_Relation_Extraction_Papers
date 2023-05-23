@@ -4,7 +4,8 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 ### Papers
 1. **ATLOP**: **"Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling".**
 *Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang* (AAAI 2021)  \[[paper](https://arxiv.org/pdf/2010.11304.pdf)\]\[[code](https://github.com/wzhouad/ATLOP)\]
-
+2. **Eider**: **"Empowering Document-level Relation Extraction with Efficient Evidence Extraction and Inference-stage Fusion".**
+*Yiqing Xie, Jiaming Shen, Sha Li, Yuning Mao, Jiawei Han* (ACL 2022)  \[[paper](https://arxiv.org/pdf/2106.08657v2.pdf)\]\[[code](https://github.com/veronicium/eider)\]
 ### Performance Evaluation
 
 <h4>DocRED数据集测评结果:</h4>
@@ -56,16 +57,39 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <p align=center style='text-align:center'><span lang=EN-US></span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.22+-0.15</span></p>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.22±0.15</span></p>
   </td>
   <td width=100>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.09+-0.16</span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.09±0.16</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.31</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.30</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=400 align=center style='text-align:center'>
+  <p ><span lang=EN-US style='font-size:9.0pt'>EIDER-BERT<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Xie at al.2022</span>）</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>68.47±0.08</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>55.21±0.21</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>60.51±0.11</span></p>
+  </td>
+  <td width=100>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>62.48±0.13</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>60.42</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>62.47</span></p>
   </td>
  </tr>
 
