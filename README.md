@@ -59,10 +59,10 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <p ><span lang=EN-US style='font-size:9.0pt'>BERT-ATLOP<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zhou et al. 2021</span>）</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.22±0.15</span></p>
@@ -130,10 +130,10 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-Glove<sub></sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>53.05</span></p>
@@ -154,10 +154,10 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>base</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.14</span></p>
@@ -178,10 +178,10 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>large</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>60.87</span></p>
