@@ -57,29 +57,6 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
 
-  <tr>
-  <td width=400 align=center style='text-align:center'>
-  <p ><span lang=EN-US style='font-size:9.0pt'>BERT-ATLOP<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zhou et al. 2021</span>）</span></p>
-  </td>
-  <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
-  </td>
-  <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
-  </td>
-  <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.22±0.15</span></p>
-  </td>
-  <td width=100>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.09±0.16</span></p>
-  </td>
-  <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.31</span></p>
-  </td>
-  <td width=100>
-  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.30</span></p>
-  </td>
- </tr>
 <tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>EIDER-BERT<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Xie et al. 2022</span>）</span></p>
@@ -125,6 +102,30 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>57.15</span></p>
+  </td>
+ </tr>
+
+ <tr>
+  <td width=400 align=center style='text-align:center'>
+  <p ><span lang=EN-US style='font-size:9.0pt'>BERT-ATLOP<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zhou et al. 2021</span>）</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.22±0.15</span></p>
+  </td>
+  <td width=100>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.09±0.16</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.31</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.30</span></p>
   </td>
  </tr>
  
