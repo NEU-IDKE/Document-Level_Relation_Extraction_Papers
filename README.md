@@ -24,7 +24,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
 
   <td width=200 colspan=2>
-  <p align=center style='text-align:center'><b><span lang=EN-US style='font-size:14.0pt'>F1</span></b></p>
+  <p align=center style='text-align:center'><b><span lang=EN-US style='font-size:14.0pt'>Test</span></b></p>
   </td>
  </tr>
 
