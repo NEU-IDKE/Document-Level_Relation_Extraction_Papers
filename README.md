@@ -77,7 +77,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.30</span></p>
   </td>
  </tr>
- <tr>
+<tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>EIDER-BERT<sub>BASE</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Xie et al. 2022</span>）</span></p>
   </td>
@@ -101,7 +101,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
  
-  <tr>
+<tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>SGR<sub>lstm</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Peng et al. 2022</span>）</span></p>
   </td>
@@ -125,7 +125,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
  
-   <tr>
+<tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-Glove<sub></sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
@@ -149,7 +149,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
  
-    <tr>
+ <tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>base</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
@@ -173,7 +173,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
  
-     <tr>
+ <tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>large</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
