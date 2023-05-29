@@ -103,7 +103,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
  
 <tr>
   <td width=400 align=center style='text-align:center'>
-  <p ><span lang=EN-US style='font-size:9.0pt'>SGR<sub>lstm</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Peng et al. 2022</span>）</span></p>
+  <p ><span lang=EN-US style='font-size:9.0pt'>SGR-Glove<sub></sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Peng et al. 2022</span>）</span></p>
   </td>
   <td width=100>
   <p align=center style='text-align:center'><span lang=EN-US>63.58</span></p>
