@@ -11,6 +11,9 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 1. **ATLOP**: **"Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling".**
 *Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang* (AAAI 2021)  \[[paper](https://arxiv.org/pdf/2010.11304.pdf)\]\[[code](https://github.com/wzhouad/ATLOP)\]
 
+1. **DRN**: **"Discriminative Reasoning for Document-level Relation Extraction".**
+*Wang Xu, Kehai Chen, Tiejun Zhao* (ACL 2021)  \[[paper](https://aclanthology.org/2021.findings-acl.144.pdf)\]\[[code](https://github.com/xwjim/DRN)\]
+
 1. **GAIN**: **"Double Graph Based Reasoning for Document-level Relation Extraction".**
 *Shuang Zeng, Runxin Xu, Baobao Chang,  Lei Li* (EMNLP 2020)  \[[paper](https://arxiv.org/pdf/2009.13752.pdf)\]\[[code](https://github.com/PKUnlp-icler/GAIN)\]
 
@@ -127,6 +130,54 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
  
 <tr>
   <td width=400 align=center style='text-align:center'>
+  <p ><span lang=EN-US style='font-size:9.0pt'>DRN-Glove<sub></sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Xu et al. 2021</span>）</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>54.61</span></p>
+  </td>
+  <td width=100>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>56.49</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>54.35</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>56.33</span></p>
+  </td>
+ </tr>
+ 
+ <tr>
+  <td width=400 align=center style='text-align:center'>
+  <p ><span lang=EN-US style='font-size:9.0pt'>DRN-BERT<sub>base</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Xu et al. 2021</span>）</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US>-</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.33</span></p>
+  </td>
+  <td width=100>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.39</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.15</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.37</span></p>
+  </td>
+ </tr>
+  
+<tr>
+  <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-Glove<sub></sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
   <td width=100>
@@ -149,7 +200,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
  
- <tr>
+<tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>base</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
@@ -173,7 +224,7 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
  
- <tr>
+<tr>
   <td width=400 align=center style='text-align:center'>
   <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>large</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
   </td>
