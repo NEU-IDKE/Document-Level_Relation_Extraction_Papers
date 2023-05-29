@@ -4,10 +4,15 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
 ### Papers
 1. **Eider**: **"Empowering Document-level Relation Extraction with Efficient Evidence Extraction and Inference-stage Fusion".**
 *Yiqing Xie, Jiaming Shen, Sha Li, Yuning Mao, Jiawei Han* (ACL 2022)  \[[paper](https://arxiv.org/pdf/2106.08657v2.pdf)\]\[[code](https://github.com/veronicium/eider)\]
+
 1. **SGR**: **"Document-level Relation Extraction via Subgraph Reasoning".**
 *Xingyu Peng, Chong Zhang, Ke Xu* (IJCAI 2022)  \[[paper](https://www.ijcai.org/proceedings/2022/0601.pdf)\]\[[code](https://github.com/Crysta1ovo/SGR)\]
+
 1. **ATLOP**: **"Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling".**
 *Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang* (AAAI 2021)  \[[paper](https://arxiv.org/pdf/2010.11304.pdf)\]\[[code](https://github.com/wzhouad/ATLOP)\]
+
+1. **GAIN**: **"Double Graph Based Reasoning for Document-level Relation Extraction".**
+*Shuang Zeng, Runxin Xu, Baobao Chang,  Lei Li* (EMNLP 2020)  \[[paper](https://arxiv.org/pdf/2009.13752.pdf)\]\[[code](https://github.com/PKUnlp-icler/GAIN)\]
 
 ### Performance Evaluation
 
@@ -120,6 +125,77 @@ This is a repo listing some papers on Document-Level Relation Extraction publish
   </td>
  </tr>
  
+   <tr>
+  <td width=400 align=center style='text-align:center'>
+  <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-Glove<sub></sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>53.05</span></p>
+  </td>
+  <td width=100>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>55.29</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>52.66</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>55.08</span></p>
+  </td>
+ </tr>
+ 
+    <tr>
+  <td width=400 align=center style='text-align:center'>
+  <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>base</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.14</span></p>
+  </td>
+  <td width=100>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.22</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>59.00</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>61.24</span></p>
+  </td>
+ </tr>
+ 
+     <tr>
+  <td width=400 align=center style='text-align:center'>
+  <p ><span lang=EN-US style='font-size:9.0pt'>GAIN-BERT<sub>large</sub></span><span style='font-size:9.0pt'>（<span lang=EN-US>Zeng et al. 2020</span>）</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US></span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>60.87</span></p>
+  </td>
+  <td width=100>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>63.09</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>60.31</span></p>
+  </td>
+  <td width=100>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:9.0pt'>62.76</span></p>
+  </td>
+ </tr>
 
 </table>
 
